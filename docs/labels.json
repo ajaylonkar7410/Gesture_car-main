@@ -1,0 +1,23 @@
+{
+  "labels": [
+    "dislike",
+    "fist",
+    "ok",
+    "palm",
+    "rock"
+  ],
+  "id_to_label": {
+    "0": "dislike",
+    "1": "fist",
+    "2": "ok",
+    "3": "palm",
+    "4": "rock"
+  },
+  "gesture_to_cmd": {
+    "dislike": "REVERSE",
+    "fist": "STOP",
+    "ok": "RIGHT",
+    "palm": "FORWARD",
+    "rock": "LEFT"
+  }
+}

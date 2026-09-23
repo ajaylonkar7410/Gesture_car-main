@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+*.egg-info/
+dist/ build/
+
+# Venv
+venv/ env/ .venv/
+
+# Large data — never commit
+input_data/
+data/gesture_data.csv
+
+# Trained pkl — regenerable
+model/gesture_model.pkl
+model/label_encoder.pkl
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store Thumbs.db
+
+# Env vars
+.env .env.local
+
+# Local browser credentials
+docs/config.local.js
+esp8266/car_firmware/secrets.h
+
+# Logs
+*.log logs/
+
+# docs/model.onnx  — NOT ignored (needed for GitHub Pages)
+# docs/labels.json — NOT ignored (needed for GitHub Pages)
+# outputs/confusion_matrix.png — NOT ignored (used in README)
