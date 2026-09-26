@@ -6,9 +6,6 @@
 
 > **Show your hand → browser understands the gesture → car moves.**
 
-[🎥 **Watch the Demo**](https://github.com/user-attachments/assets/304a75fb-850f-4141-9bdb-6fb4176caa54)
-
----
 
 ## ⚡ What is it?
 
